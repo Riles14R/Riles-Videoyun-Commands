@@ -30,5 +30,7 @@ peepoLife - (!'siz)Üzüldüğünüz zaman yanınızda olan bot :)
 
 !sarıl,!sarılma - The hugger.
 
+!legatusleman - Bu komutun açıklaması yoktur. PepeLaugh
+
 
 
