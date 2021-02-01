@@ -10,7 +10,7 @@ For riles bot in Videoyun chat
 !volchos - Volchosun tanıtımı
 !çekiliş - Ç word mü neeeee! D:
 !yarışma - Yarışmanın nasıl yapıldığı
-peepoLife - Üzüldüğünüz zaman yanınızda olan bot :)
+peepoLife - (!'siz)Üzüldüğünüz zaman yanınızda olan bot :)
 !karamelek - bot karamelek ismini sorguluyor.(Ben değil modlar monkaS )
 !fivemservers - Hangi fivem serverlarında oynandığını gösteriyor.
 !sarıl,!sarılma - The hugger.
