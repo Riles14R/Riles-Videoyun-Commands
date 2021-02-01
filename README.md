@@ -13,6 +13,6 @@ For riles bot in Videoyun chat
 peepoLife - Üzüldüğünüz zaman yanınızda olan bot :)
 !karamelek - bot karamelek ismini sorguluyor.(Ben değil modlar monkaS )
 !fivemservers - Hangi fivem serverlarında oynandığını gösteriyor.
-!sarıl,!sarılma - The hugger
+!sarıl,!sarılma - The hugger.
 
 
