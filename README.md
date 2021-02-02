@@ -18,9 +18,9 @@ For riles bot in Videoyun chat
 
 !volchos - Volchosun tanıtımı
 
-!çekiliş - Ç word mü neeeee! D:
+!çekiliş - Ç word mü neeeee! D: - Devredışı
 
-!yarışma - Yarışmanın nasıl yapıldığı
+!yarışma - Yarışmanın nasıl yapıldığı - Devredışı
 
 peepoLife - (!'siz)Üzüldüğünüz zaman yanınızda olan bot :)
 
@@ -45,3 +45,5 @@ peepoLife - (!'siz)Üzüldüğünüz zaman yanınızda olan bot :)
 !safahms - whaa
 
 !zar - 1-6 arasında zar atar
+
+!baş - YEP
