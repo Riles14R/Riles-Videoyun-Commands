@@ -14,7 +14,7 @@ For riles bot in Videoyun chat
 
 !videoyun - Videoyun'un nerde çalıştığı
 
-!cayriles,!çayriles - Çay ısmarlamaca (!çayriles ısmarlama - !cayriles Kendine çay alma
+!cayriles,!çayriles - Çay ısmarlamaca (şuanlık ısmarlama çalışmıyor.)
 
 !volchos - Volchosun tanıtımı
 
