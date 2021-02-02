@@ -36,5 +36,7 @@ peepoLife - (!'siz)Üzüldüğünüz zaman yanınızda olan bot :)
 
 !arinayar - <3
 
+!emircan - Emircanın discordaki yaptığına karşın eklediğim bir bot komudu
+
 
 
