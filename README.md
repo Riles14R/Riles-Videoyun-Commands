@@ -42,6 +42,8 @@ peepoLife - (!'siz)Üzüldüğünüz zaman yanınızda olan bot :)
 
 !phusro - Napim
 
+!safahms - whaa
+
 
 
 
