@@ -32,5 +32,7 @@ peepoLife - (!'siz)Üzüldüğünüz zaman yanınızda olan bot :)
 
 !legatusleman - Bu komutun açıklaması yoktur. PepeLaugh.
 
+!muzlukebap - MuZZZZlu Gebab
+
 
 
