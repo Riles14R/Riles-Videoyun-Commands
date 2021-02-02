@@ -38,5 +38,13 @@ peepoLife - (!'siz)Üzüldüğünüz zaman yanınızda olan bot :)
 
 !emircan - Emircanın discordaki yaptığına karşın eklediğim bir bot komudu
 
+!ninno - Ninno'nun kaçıncı sınıf olduğu
+
+!phusro - Napim
+
+
+
+
+
 
 
