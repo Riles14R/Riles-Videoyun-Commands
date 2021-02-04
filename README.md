@@ -47,3 +47,5 @@ peepoLife - (!'siz)Üzüldüğünüz zaman yanınızda olan bot :)
 !zar - 1-6 arasında zar atar
 
 !baş - YEP
+
+!rçaysayaç - Çay sayaç
