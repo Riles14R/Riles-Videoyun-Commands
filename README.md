@@ -10,6 +10,10 @@ For riles bot in Videoyun chat
 
 !kronos - Kronosun gözümdeki değeri
 
+!icelatte - Bot ice latte yapar
+
+!filtrekahve - Bot filtre kahve yapar
+
 !yahyakerem - Yahyakerem modunun nerede mod olduğu (çok gereksiz bir komut)(zaten o chattesiniz) KEKW
 
 !videoyun - Videoyun'un nerde çalıştığı
@@ -49,3 +53,7 @@ peepoLife - (!'siz)Üzüldüğünüz zaman yanınızda olan bot :)
 !baş - YEP
 
 !rçaysayaç - Çay sayaç
+
+!rlattesayaç - İce latte sayacı
+
+!rkahvesayaç - Filtre kahve sayacı
